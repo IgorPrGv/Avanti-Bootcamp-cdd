@@ -21,7 +21,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
 
 Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
  - git
- - Python 3.8
+ - Python 3.10.4
  - Poetry `1.1.13` ou superior
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
